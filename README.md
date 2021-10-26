@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently solidifying my prior self-directed learning through Promineo Tech's front end bootcamp via Nashua Community College. 
+- 🔭 Just completed Promineo Tech's front end bootcamp via Nashua Community College which enhanced my prior self-directed learning including Udacity/Google scholarship 2018. 
 - 🌱 I’m looking forward to solidifying my understanding of React!
 - 💬 Ask me about my undying devotion to animated slackmojis.
 - 📫 How to reach me: www.linkedin.com/in/linda-forlizzi
